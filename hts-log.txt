@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 13 Aug 2022 12:05:23 at https://shellshock.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://shellshock.io/ -O1 "C:\Users\ccamp\OneDrive\Documents\all games\shell scockers" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:05:51	Error: 	"Not Found" (404) at link https://shellshock.io/GET (from https://shellshock.io/)
+12:05:51	Error: 	"Not Found" (404) at link https://shellshock.io/firebaseLocalStorageDb (from https://shellshock.io/)
+12:05:51	Error: 	"Not Found" (404) at link https://shellshock.io/favicon256.png (from https://shellshock.io/)
+12:05:56	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://shellshock.io/)
+12:05:59	Error: 	"Not Found" (404) at link https://shellshock.io/parent (from https://shellshock.io/)
+12:05:59	Error: 	"Forbidden" (403) at link https://shellshock.io/maps/ (from https://shellshock.io/)
+12:06:02	Error: 	"Not Found" (404) at link https://shellshock.io/styles/img/ico_chicken.png (from https://shellshock.io/styles/style.css?1659475348)
+12:06:02	Error: 	"Not Found" (404) at link https://shellshock.io/c (from https://connect.facebook.net/en_US/fbevents.js)
+12:06:02	Error: 	"Not Found" (404) at link https://shellshock.io/b (from https://connect.facebook.net/en_US/fbevents.js)
+12:06:02	Error: 	"Not Found" (404) at link https://shellshock.io/POST (from https://connect.facebook.net/en_US/fbevents.js)
+12:06:03	Error: 	"Not Found" (404) at link https://shellshock.io/unblocked/image.png (from https://shellshock.io/unblocked/)
+12:06:03	Error: 	"Not Found" (404) at link https://shellshock.io/favicon.svg (from https://shellshock.io/unblocked/)
+12:06:03	Error: 	"Not Found" (404) at link https://shellshock.io/apple-touch-icon.png (from https://shellshock.io/unblocked/)
+12:06:03	Error: 	"Not Found" (404) at link https://shellshock.io/unblocked/css/third-party-apps.css? (from https://shellshock.io/unblocked/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 40 seconds : 109 links scanned, 94 files written (6874051 bytes overall) [4029729 bytes received at 100743 bytes/sec], 4044891 bytes transferred using HTTP compression in 59 files, ratio 27%, 4.7 requests per connection
+(14 errors, 0 warnings, 0 messages)
